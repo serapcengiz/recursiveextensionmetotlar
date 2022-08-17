@@ -1,0 +1,15 @@
+C:\Users\serap\Desktop\Pratikler\recursiveextensionmetotlar\bin\Debug\net6.0\recursiveextensionmetotlar.exe
+C:\Users\serap\Desktop\Pratikler\recursiveextensionmetotlar\bin\Debug\net6.0\recursiveextensionmetotlar.deps.json
+C:\Users\serap\Desktop\Pratikler\recursiveextensionmetotlar\bin\Debug\net6.0\recursiveextensionmetotlar.runtimeconfig.json
+C:\Users\serap\Desktop\Pratikler\recursiveextensionmetotlar\bin\Debug\net6.0\recursiveextensionmetotlar.dll
+C:\Users\serap\Desktop\Pratikler\recursiveextensionmetotlar\bin\Debug\net6.0\recursiveextensionmetotlar.pdb
+C:\Users\serap\Desktop\Pratikler\recursiveextensionmetotlar\obj\Debug\net6.0\recursiveextensionmetotlar.csproj.AssemblyReference.cache
+C:\Users\serap\Desktop\Pratikler\recursiveextensionmetotlar\obj\Debug\net6.0\recursiveextensionmetotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serap\Desktop\Pratikler\recursiveextensionmetotlar\obj\Debug\net6.0\recursiveextensionmetotlar.AssemblyInfoInputs.cache
+C:\Users\serap\Desktop\Pratikler\recursiveextensionmetotlar\obj\Debug\net6.0\recursiveextensionmetotlar.AssemblyInfo.cs
+C:\Users\serap\Desktop\Pratikler\recursiveextensionmetotlar\obj\Debug\net6.0\recursiveextensionmetotlar.csproj.CoreCompileInputs.cache
+C:\Users\serap\Desktop\Pratikler\recursiveextensionmetotlar\obj\Debug\net6.0\recursiveextensionmetotlar.dll
+C:\Users\serap\Desktop\Pratikler\recursiveextensionmetotlar\obj\Debug\net6.0\refint\recursiveextensionmetotlar.dll
+C:\Users\serap\Desktop\Pratikler\recursiveextensionmetotlar\obj\Debug\net6.0\recursiveextensionmetotlar.pdb
+C:\Users\serap\Desktop\Pratikler\recursiveextensionmetotlar\obj\Debug\net6.0\recursiveextensionmetotlar.genruntimeconfig.cache
+C:\Users\serap\Desktop\Pratikler\recursiveextensionmetotlar\obj\Debug\net6.0\ref\recursiveextensionmetotlar.dll
